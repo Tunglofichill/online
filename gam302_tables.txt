@@ -1,0 +1,6 @@
+	Câu hỏi	Điểm
+1	Tích hợp Photon Fusion vào dự án 	1
+2	Tạo hệ thống Moving Platform: – Sàn di chuyển qua lại. – Chuyển động phải được đồng bộ. – Người chơi đứng trên sàn sẽ di chuyển theo sàn.	2
+3	Tạo vật phẩm Invisibility Cloak: – Người chơi nhặt sẽ tàng hình trong 3 giây. – Trạng thái tàng hình đồng bộ cho tất cả client. – Item respawn sau 15 giây.	2
+4	Tạo hệ thống Score Sync: – Mỗi người chơi có điểm riêng. – Khi hạ một mục tiêu được +1 điểm. – Bảng điểm (Scoreboard UI) phải đồng bộ với toàn bộ client.	2.5
+5	Khi một người chơi rời game, tạo thông báo nổi (UI popup) cho tất cả client: “A player has left the match”.	2.5
